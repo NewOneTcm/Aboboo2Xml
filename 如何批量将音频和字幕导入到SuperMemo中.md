@@ -12,11 +12,11 @@
 ## 工具简介
 
 - **Aboboo**：用于剪辑和处理音频。
-    
+  
 - **剪映**：生成字幕文件。
-    
+  
 - **Python**：执行代码文件，请先配置好环境。
-    
+  
 
 ## 实现步骤
 
@@ -48,7 +48,7 @@
 
 ### 生成XML文件的代码
 
-这个代码也可以在我的库中找到：https://github.com/NewOneTcm/Aboboo2Xml/blob/main/aboboo2xml.py
+这个代码也可以在我的库中找到：[aboboo2xml.py](aboboo2xml.py)
 
 代码文件如下：
 
@@ -176,7 +176,7 @@ SM默认使用了问答样式，会多一个文本框，需要手动删除。
 
 如果你需要直接生成Item测试卡片，可以使用另外一个代码文件生成，文件在我的仓库中：[导出为测试卡](supermemo-xml-item.py)，这样生成的就是一个测试卡。
 
-大家也可以访问我的仓库：https://github.com/NewOneTcm/Aboboo2Xml，给我提一些修改意见。
+大家也可以访问[我的仓库](https://github.com/NewOneTcm/Aboboo2Xml) 给我提一些修改意见。
 
 ### 总结
 
