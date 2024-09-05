@@ -6,5 +6,9 @@
 
 [supermemo-xml-item.py](supermemo-xml-item.py)  是将转为测试卡片，问题是英文，答案是翻译
 
+2024-09-05更新
+
+增加[supermemo-xml-generator-v2.py](supermemo-xml-generator-v2.py ) 可以将导出的图片也添加上去。
+
 
 
